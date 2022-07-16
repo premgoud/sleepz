@@ -15,7 +15,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light">
       <Link className="navbar-brand" to="/">
-        pulihora tracker
+        sleep tracker
       </Link>
       <div>
         <ul className="navbar-nav">
